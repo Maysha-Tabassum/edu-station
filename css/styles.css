@@ -6,6 +6,7 @@
     background-image: linear-gradient(90deg, white, rgb(208, 233, 242));
 }
 
-/* .carousel-item img {
-    height:;
-} */
+.carousel-item-img img {
+    height: 100vh;
+    width: 100%;
+}
